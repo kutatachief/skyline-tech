@@ -1,0 +1,59 @@
+table, th, td{
+
+    border-top: 2px solid wheat;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+th, td{
+
+    padding: 15px;
+}
+
+table{
+
+    width: 70%;
+    margin: auto;
+    margin-top: 60px;
+    font-size: 20px;
+}
+
+th:nth-child(3){
+
+    width: 30%;
+
+}
+
+th:nth-child(2){
+
+    width: 30%;
+
+}
+
+th:nth-child(5){
+
+    width: 20%;
+}
+
+.fa-solid{
+
+color: green;
+}
+
+.fa-xmark{
+
+    color: red;
+}
+
+span{
+
+    background-color: green;
+    padding: 5px;
+    color: white;
+}
+
+
+th{
+
+    background-color: blue;
+}
